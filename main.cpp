@@ -8,7 +8,7 @@
 //   - Nguyen Van Quang - 20227146 - Quan ly danh muc, tim kiem, doc/ghi tep
 //   - Pham Duc Chien  - 20227009 - Cac bao cao thong ke, kiem thu
 // GVHD  : TS. Vu Thanh Nam
-// Ma lop: 169317
+// Ma lop: 169312
 // Repo  : https://github.com/Deadpool2210/quan-ly-kho-hang
 // ====================================================================
 #include <iostream>
