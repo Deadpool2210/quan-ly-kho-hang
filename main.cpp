@@ -3,7 +3,7 @@
 // Chu de : 03 - Quan ly kho hang
 // File   : main.cpp  (vong lap menu chinh)
 //
-// Nhom thuc hien:
+// Nhom 20 thuc hien:
 //   - Pham Tien Dat   - 20227094 - Cau truc du lieu, nghiep vu nhap/xuat, bao cao
 //   - Nguyen Van Quang - 20227146 - Quan ly danh muc, tim kiem, doc/ghi tep
 //   - Pham Duc Chien  - 20227009 - Cac bao cao thong ke, kiem thu
